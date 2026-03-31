@@ -35,14 +35,19 @@ Este repositório centraliza todos os códigos, notebooks e exemplos práticos u
 ├── 📁 aula-03/          # Anatomia de Sistemas de IA e PyTorch
 ├── 📁 aula-04/          # NLP: Da Teoria dos Embeddings à Análise de Sentimentos
 ├── 📁 aula-05/          # Mecanismos de Atenção, Transformers e IA Agêntica
-├── 📁 aula-06/          # Transformers e NLP
-├── 📁 aula-07/          # Redes Recorrentes (RNN / LSTM)
-├── 📁 aula-08/          # Transfer Learning
-├── 📁 aula-09/          # Avaliação e métricas de modelos
-├── 📁 aula-10/          # Projetos e aplicações práticas
-├── 📁 datasets/         # Conjuntos de dados utilizados nas aulas
-├── 📁 utils/            # Funções auxiliares e utilitários compartilhados
-└── README.md
+├── 📁 aula-06/          # Anatomia da Atenção: Implementação do Scaled Dot-Product
+├── 📁 aula-07/          # Do BERT ao Sabiá-3: Fine-tuning e Modelos Brasileiros
+├── 📁 aula-08/          # Vision Transformers (ViT) vs. CNNs: A evolução da Visão
+├── 📁 aula-09/          # Detecção de Objetos e Segmentação: Aplicações Industriais
+├── 📁 aula-10/          # IA Agêntica I: De Chatbots a Agentes Autônomos (Tool Use)
+├── 📁 aula-11/          # IA Agêntica II: Sistemas Multiagentes e Orquestração
+├── 📁 aula-12/          # MLOps: Ciclo de Vida, Monitoramento e Drift de Modelos
+├── 📁 aula-13/          # Edge AI e Otimização: Quantização e Deploy em Dispositivos
+├── 📁 aula-14/          # IA Responsável: Explicabilidade (XAI) e Auditoria Ética
+├── 📁 aula-15/          # Demo Day: Apresentação dos Projetos Finais de Engenharia
+├── 📁 datasets/         # Conjuntos de dados (Tweets, Imagens Médicas, Logs Industriais)
+├── 📁 utils/            # Helpers para visualização de atenção e métricas customizadas
+└── 📄 README.md         # Guia da disciplina e requisitos de ambiente (PyTorch/Cuda)
 ```
 
 > A estrutura pode ser atualizada ao longo do semestre conforme novos tópicos forem abordados.
