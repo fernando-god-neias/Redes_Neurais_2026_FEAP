@@ -4,7 +4,7 @@
 
 > Repositório oficial de códigos da disciplina **Redes Neurais e IA Aplicada**  
 > Curso de Engenharia de Computação · 4º ao 9º Termos  
-> Faculdade de Engenharia e Arquitetura de Penápolis (FEAP)
+> Faculdade de Engenharia e Administração Paulista (FEAP)
 
 ---
 
