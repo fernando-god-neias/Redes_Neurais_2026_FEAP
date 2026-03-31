@@ -3,7 +3,7 @@
 # 🧠 Redes Neurais e IA Aplicada — FEAP
 
 > Repositório oficial de códigos da disciplina **Redes Neurais e IA Aplicada**  
-> Curso de Engenharia de Computação · 4º ao 9º Termos  
+> Curso de Engenharia de Computação · 4º ao 9º Termos (2026)
 > Faculdade de Engenharia e Administração Paulista (FEAP)
 
 ---
